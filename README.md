@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 
 <h3 align="center">
@@ -271,4 +270,3 @@ And ultimately, a better human being.
 ### "The future is built by those who continuously learn, courageously experiment, and relentlessly execute."
 
 </p>
-```
