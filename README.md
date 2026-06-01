@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 
 <h3 align="center">
@@ -5,131 +6,166 @@ AI & Machine Learning Researcher • Full Stack Engineer • Cloud Architect •
 </h3>
 
 <p align="center">
-Building AI Systems • Scalable Platforms • Cloud Native Applications • Future Technologies
+Building Intelligent Systems • Scalable Platforms • Cloud Native Architectures • AI-Powered Products
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Researcher;Full+Stack+Engineer;Cloud+Native+Architect;Open+Source+Contributor;Building+the+Future+with+AI;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=AI+%26+Machine+Learning+Researcher;Full+Stack+Engineer;Cloud+Architect;Open+Source+Contributor;Entrepreneur+%26+Builder;Building+Technology+That+Matters;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=adityarajmishra&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=adityarajmishra&theme=algolia&row=1&column=7" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=adityarajmishra&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 Current Focus
 
 🔭 Currently Building **GymPro App**
 
-🌱 Learning **Go, Rust, AI Agents, Distributed Systems**
+🌱 Currently Learning **Go, Rust, Advanced Machine Learning, Agentic AI, Distributed Systems**
 
-🧠 Research Interests
+🧠 Researching **Artificial Intelligence, Large Language Models, Multi-Agent Systems, Drug Discovery AI, AI Infrastructure, and Future Computing Systems**
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Large Language Models
-- Multi-Agent Systems
-- Drug Discovery AI
-- Reinforcement Learning
-- Autonomous Systems
+👯 Open to Collaborate On **Research Projects, AI Products, Open Source, SaaS Platforms, Developer Tools, and Ambitious Startups**
 
-👯 Looking to Collaborate On
+📫 Reach Me At **adityaraj.pilot@hotmail.com**
 
-- AI Research
-- Open Source
-- SaaS Platforms
-- Startup Products
-- Developer Tools
+🌐 Portfolio: **Coming Soon**
 
-💬 Ask Me About
+📝 Articles & Research Writing: **Coming Soon**
 
-- AI & Machine Learning
-- Java & Spring Boot
-- Node.js & NestJS
-- React & Angular
-- Cloud Architecture
-- Kubernetes
-- Terraform
-- System Design
-- Distributed Systems
+📄 Resume: **Coming Soon**
 
-📫 Reach Me
+---
 
-**adityaraj.pilot@hotmail.com**
+# 🌍 Who Am I?
 
-📄 Resume
+I'm an engineer driven by curiosity and an entrepreneur driven by possibility.
 
-Coming Soon
+My work spans Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, Distributed Systems, and Product Engineering.
 
-🌐 Portfolio
+I enjoy taking ideas from research papers and transforming them into production-ready systems that create real-world impact.
 
-Coming Soon
+Over the years, I have developed a deep appreciation for the intersection of technology, business, science, and human behavior. This perspective allows me to approach problems not just as an engineer, but as a builder focused on creating meaningful solutions.
 
-📝 Articles
+Whether it's developing software, researching emerging technologies, exploring new countries, reading scientific literature, learning new skills, or launching ambitious projects, I believe growth comes from consistently challenging yourself.
 
-Coming Soon
+My philosophy is simple:
+
+> Learn deeply. Build relentlessly. Improve continuously.
+
+---
+
+# 🧠 Areas of Interest
+
+<p align="center">
+
+Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Large Language Models • Agentic Systems • Autonomous Agents • Reinforcement Learning • MLOps • AI Infrastructure • Distributed Systems • Cloud Computing • Product Engineering • System Design • Computational Biology • Drug Discovery AI • Startups • Entrepreneurship • Open Source • Developer Tools • Future Technologies
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
+<a href="https://x.com/adityaxtech">
+<img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/rahul-mishra-dev/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Rahul_Mishra-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.reddit.com/user/adityarajmishra/">
+<img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/13929987/adityaraj">
+<img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@adityaraj.pilot">
-<img src="https://skillicons.dev/icons?i=devto" />
+<img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium"/>
 </a>
 
-<a href="https://hashnode.com/@adityarajmishra0">
-<img src="https://skillicons.dev/icons?i=devto" />
+<a href="https://dev.to/adityarajmishra">
+<img src="https://img.shields.io/badge/DEV-Community-black?style=for-the-badge&logo=dev.to"/>
+</a>
+
+<a href="https://substack.com/@adityarajmishra">
+<img src="https://img.shields.io/badge/Substack-Newsletter-orange?style=for-the-badge&logo=substack"/>
 </a>
 
 </p>
 
 ---
 
-# 🧠 Research Areas
-
-- Large Language Models (LLMs)
-- Agentic AI
-- RAG Systems
-- MLOps
-- AI Infrastructure
-- Distributed AI Systems
-- Deep Learning
-- Generative AI
-- Applied Machine Learning
-
----
-
-# 💻 Languages & Technologies
+# 💻 Coding & Research Profiles
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,nextjs,angular,typescript,javascript,python,cpp,go,rust" />
+<a href="https://huggingface.co/adityarajmishra">
+<img src="https://img.shields.io/badge/HuggingFace-AI-yellow?style=for-the-badge&logo=huggingface"/>
+</a>
 
-<br>
+<a href="https://vercel.com/adityarajmishra">
+<img src="https://img.shields.io/badge/Vercel-Projects-black?style=for-the-badge&logo=vercel"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,nginx,linux,bash" />
+<a href="https://www.kaggle.com/adityarajmishra007">
+<img src="https://img.shields.io/badge/Kaggle-Machine_Learning-blue?style=for-the-badge&logo=kaggle"/>
+</a>
 
-<br>
+<a href="https://leetcode.com/u/adityarajmishra/">
+<img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,graphql,kafka,rabbitmq" />
+<a href="https://codeforces.com/profile/adityarajmishra">
+<img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-blue?style=for-the-badge"/>
+</a>
 
-<br>
+<a href="https://www.codechef.com/users/adityrajmishra">
+<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-brown?style=for-the-badge"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,webpack,tailwind" />
+<a href="https://atcoder.jp/users/adityarajmishra">
+<img src="https://img.shields.io/badge/AtCoder-Competitive_Programming-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/adityarajmishra">
+<img src="https://img.shields.io/badge/HackerRank-Problems-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,nextjs,angular,typescript,javascript,python,cpp,go,rust"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,nginx,linux,bash"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,graphql,kafka,rabbitmq"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,tailwind,webpack"/>
 
 </p>
 
@@ -138,80 +174,101 @@ Coming Soon
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityarajmishra&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajmishra&theme=tokyonight&hide_border=true" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityarajmishra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajmishra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajmishra&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajmishra&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🚀 What Drives Me
 
-<p align="center">
+I believe technology is most powerful when it solves meaningful problems and creates opportunities for people.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajmishra&theme=tokyo-night&hide_border=true" />
+The future belongs to individuals who can combine deep technical expertise with creativity, adaptability, and strong execution.
 
-</p>
+My goal is to become a world-class engineer, researcher, and entrepreneur capable of contributing to breakthrough technologies while building products that improve lives at scale.
+
+I am particularly fascinated by the future of:
+
+- Artificial General Intelligence
+- Autonomous Agent Systems
+- AI for Scientific Discovery
+- Human-AI Collaboration
+- Drug Discovery & Computational Biology
+- Cloud Native Infrastructure
+- Intelligent Software Platforms
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌎 Beyond Engineering
 
-- Full Stack Engineer
-- AI Research Enthusiast
-- Cloud Native Builder
-- Open Source Contributor
-- System Design Practitioner
-- Lifelong Learner
+Technology is only one dimension of who I am.
 
----
+Outside of engineering and research, I enjoy exploring new countries, understanding different cultures, reading books across science and philosophy, training in combat sports, cooking, mentoring aspiring developers, and pursuing continuous self-improvement.
 
-# 🌎 Beyond Technology
+I strongly believe that broad experiences create better engineers, stronger leaders, and more thoughtful entrepreneurs.
 
-✈️ Travel Enthusiast
+Travel teaches adaptability.
 
-🥊 Combat Sports
+Research teaches humility.
 
-📚 Research Papers
+Building teaches resilience.
 
-🍳 Cooking
+Failure teaches wisdom.
 
-🚀 Entrepreneurship
-
-🌍 Exploring New Cultures
+And curiosity keeps everything moving forward.
 
 ---
 
 # ⚡ Personal Philosophy
 
-> Build Things.
->
-> Solve Problems.
->
-> Learn Relentlessly.
->
-> Share Knowledge.
->
-> Stay Curious.
->
-> Create Impact.
+I believe that progress comes from action.
+
+Ideas are abundant, but execution is rare.
+
+The ability to consistently learn, build, adapt, and persist is more valuable than any single skill, framework, or technology.
+
+Technology changes every year.
+
+Frameworks rise and fall.
+
+Markets evolve.
+
+Industries transform.
+
+But curiosity, discipline, integrity, and the willingness to keep moving forward remain timeless.
+
+I do not measure success solely by titles, compensation, or achievements.
+
+I measure success by the problems solved, the people helped, the lessons learned, and the impact created.
+
+My objective is not simply to become a better developer.
+
+It is to become a better thinker.
+
+A better builder.
+
+A better researcher.
+
+A better leader.
+
+A better entrepreneur.
+
+And ultimately, a better human being.
 
 ---
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+### "The future is built by those who continuously learn, courageously experiment, and relentlessly execute."
 
 </p>
+```
